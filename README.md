@@ -1,11 +1,10 @@
-# CraftMine
+![CraftMine](https://dl.dropboxusercontent.com/u/88343325/CraftMine/New/v3.9/LongLogo.png)
 The future of CraftMine starts now.
 
 ## Build number convention
 Each potentially game-breaking change goes in a new build, so that if the game breaks because of a change, you can revert your changes without also reverting all your previous changes also included in that build.
 
-Example
--------
+### Example
 Current build is 0005, but I want to add a new mod called "Buildcraft". Before adding it, I clone the current build and name it b0006, then add my new mod. When testing, if the new mod is too buggy or laggy or it crashes the game or whatever, I delete build 0006 and go back to using b0005. This way, I don't loose any of the other changes I made in b0005 before I added the new mod. If the mod added in works perfectly, I configure it and then leave it in the new build and carry on with adding new stuff and changing things, etc...
 
 ## When not to make a new build
@@ -16,4 +15,9 @@ Current build is 0005, but I want to add a new mod called "Buildcraft". Before a
 Submit a pull request containing your new changelog, configs and mod names. Once your pull request has been reviewed, it will be attempted as a patch in CM and if it passes, your pull request will be approved. Once your patch has been approved, you may continue developing a new build.
 
 ## Submitting a texture change
-Use skype for this
+Use Slack for this
+
+## Filing an issue
+When filing an issue, please tag it where appropriate. For example, if I was filing an issue for a major bug that caused very frequent crashes, I would tag it as "major bug".
+
+Also, please state the cause and affected versions whenever possible. If you don't know the cause, put "Cause: Unknown".
