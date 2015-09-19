@@ -1,0 +1,214 @@
+The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
+The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
+
+CraftMine v4 Alpha 2 - Build 0014 changelog (19/08/2015)
+===========================================
+* Now mainly focusing on the adventure aspects from this build onwards until considered mostly done
++ Added ExtraBiomesXL by Zenth_
+* Increased RAM allocation from 2GB to 2.5GB to attempt to reduce lag spikes possibly caused by EBXL
++ Our new exclusive CraftMine worldgen will be called "Habitat"
+- [Habitat] Disabled (ice)wasteland and marsh biomes
+- [Habitat] Disabled temperate rainforest, tundra and meadow biomes
+* Configured SimpleOres2 so that it no longer notifies about updates for newer MC versions like 1.8 and to reduce the amount of creative tabs it makes
+* Configured SimpleCoreAPI, Netherrocks and Fusion so that they don't notify about updates (but I will make sure I keep the mods up-to-date, don't worry!)
+- Disabled "trash cans" from ExtraUtilities (to encourage people to use the better bins from Crayfish's Furniture mod)
+
+CraftMine v4 Alpha 2 - Build 0013 changelog (12/09/2015-13/09/2015)
+===========================================
+* Worked extra hard on improving permissions recognition to prepare CraftMine for submittion to the ATLauncher (took me hours!)
++ Added BetterRecords by Stumblinbear
++ Added Presence Footsteps by Huricaaane and Sollace
+* [Rapido+] Configured Presence Footsteps so that it works properly and doesn't show the broken update notification (I've added the latest version but the
+notification used to tell me that the mod needs "updating" to an older version)
+
+CraftMine v4 Alpha 2 - Build 0012 changelog (09/09/2015-12/09/2015)
+===========================================
+* Replaced placeholder CM Default 64x resource pack with "CraftMine Belle" - CraftMine's new look
+* [CM Belle] Updated pack.mcmeta for fancy italic formatting
++ [CM Belle] Added pack icon
++ [CM Belle] Made cobblestone, mossy cobblestone, dirt and grass textures
++ [CM Belle] Made oak and birch log textures
+* [CM Belle] Remade cobblestone, mossy cobblestone, dirt and grass textures because the old ones weren't detailed enough... :/
++ [CM Belle] Made anvil, beacon, bed, bedrock, clay, stone, snow and sand textures
++ [CM Belle] Made wool textures (all colours)
++ [CM Belle] Made sandstone, chiseled sandstone, stonebricks, mossy stonebricks, cracked stonebricks and chiseled stonebricks textures
++ [CM Belle] Made netherbricks, netherrack, soulsand, quatz ore and portal textures
++ [CM Belle] Made jungle log, spruce log, mycelium, leaves, glowstone, gravel, ice, ores and vine textures
++ [CM Belle] Made bricks, cactus, cocoa, crafting table, woodplanks, tnt, trapdoor, bookshelf, endstone, endframe, obsidian and furnace textures
++ [CM Belle] Made diamond block, gold block, lapis block, emerald block, iron block, ladder, iron bars, stone slab and options menu bg textures
+* Tried some new shaderpacks to potentially add to CM. They seem pretty impressive and exactly what I want, so I'll likely add them in at a future date. :)
++ [CM Belle] Made unknown pack icon, map background, sign, steve and command block textures
+- [CM Belle] Removed some redundant textures to lower the filesize a bit
++ [CM Belle] Made the loading screen background texture (1 of 2)
+
++ Added ResourceLoader by Lumien (again)
++ Added CraftLoader by Paint_Ninja
+* Spent ages setting up CraftLoader so it ideally suits the new CraftMine... but it was worth it. :)
+
++ [CM Belle] Added CraftMine logo texture for the default title screen
++* [Rapido+] Completely retweaked all of the sound settings. Before the volume seemed to be flipped, making the distant sounds too loud and the close sounds
+too quiet - this has now been resolved.
+
+* Updated Buildcraft core from v7.0.22 to 7.0.23
+* Updated Buildcraft transport from v7.0.22 to 7.0.23
+* Updated Buildcraft energy from v7.0.22 to 7.0.23
+* Updated Buildcraft silicon and factory from v7.0.22 to 7.0.23
+* Marked ResourceLoader as tested and stable
+
+CraftMine v4 Alpha 2 - Build 0011 changelog (05/09/2015-06/09/2015)
+===========================================
++ Added SimpleOres official "Fusion" plugin
+X Tried adding CraftGuide litemod by Uristqwerty but failed
++ Added CraftGuide forgemod by Uristqwerty
+- Undone all Rapido+ optimisations for Ninja's Cash, BetterFoliage and Optifine. It turns out the optimisations weren't lossless for the textures and caused ugly visual glitches. >.< However, BetterFPS will keep its
+optimisations because it does not contain any textures and is therefore truely lossless.
+
+CraftMine v4 Alpha 2 - Build 0010 changelog (05/09/2015)
+===========================================
++ Added Buildcraft core v7.0.22
++ Added Buildcraft transport v7.0.22
++ Added Buildcraft energy v7.0.22
++ Added Buildcraft silicon and factory v7.0.22
+* [Rapido+] Losslessly optimised Ninja's Cash mod for faster startup time (23% less overhead)
+* [Rapido+] Losslessly optimised BetterFPS mod for faster startup time (8% less overhead)
+* [Rapido+] Losslessly optimised BetterFoliage mod and its textures for slightly better performance and faster startup time
+* [Rapido+] Losslessly optimised Optifine mod for faster startup time (7% less overhead)
+
+CraftMine v4 Alpha 2 - Build 0009 changelog (31/08/2015-05/09/2015)
+===========================================
+# Based on b0007
++ Added Bibliocraft
+* Tried setting BetterFPS back to Vanilla Algorithm to solve incompatibilities (didn't seem to work)
+- Removed BetterFPS and Fastcraft entirely to try to see if that helps stop the lag spikes due to incompatibilities (didn't seem to work either)
+* Doubled RAM and PermGen allocation to try to solve lag spikes (WORKED! :D)
+* Changed minimum requirements to reflect the lag spikes solution
++ Added in Fastcraft and BetterFPS again
+* Set BetterFPS' algorithm back to "Riven's Algorithm" for improved performance
++ Added YAMPST anonymous tracker in again
+* Updated YAMPST so that it shows the actual build version this time rather than just "v4-Alpha2" so that bug reports collected are more useful
+
+CraftMine v4 Alpha 2 - Build 0008 changelog (31/08/2015)
+===========================================
++ Added Buildcraft core
+* [Rapido+] Optimised Buildcraft's core networking to help prevent lag spikes on internal server (upload interval set to every 250ms instead of every 500ms).
+* Set voxelMap default size from "Regular" to "Small" (slight performance improvement)
++ Added Buildcraft transport
+* Buildcraft transport seems to be causing lag spikes too now... After further investigation I found that the BetterFPS mod was causing these lag spikes with Buildcraft.
+Setting the BetterFPS mod to use the Vanilla algorithm lowered the fps but seemed to have stopped the lag spikes, indicating an incompatibility with the Buildcraft & BetterFPS mods.
+* Buildcraft has too many lag spikes that I can't seem to be able to resolve. Making a new build based on b0007 to remove Buildcraft stuff. :(
+
+CraftMine v4 Alpha 2 - Build 0007 changelog (31/08/2015)
+===========================================
++ Added SimpleCore and SimpleOres2 by AleXndrTheGr8st
++ Added SimpleOres2 official Netherrocks plugin
+* Found out that the SimpleOres2 official Fusion plugin was causing frequent major lag spikes just like Bibliocraft, too. The fusion plugin will not be included
+in the pack until this plugin's major bug is resolved.
+
+CraftMine v4 Alpha 2 - Build 0006 changelog (30/08/2015-31/08/2015)
+===========================================
+# Based on b0003
++ Added Carpenter's Blocks by Mineshopper
+* Found out that Bibliocraft was causing the frequent major lag spikes. Bibliocraft will not be included in the pack until this mod's major bug is resolved.
++ Added VoxelMap by MamiyaOtaru
+* [Rapido+] Configured VoxelMap for better gameplay mechanics and slightly better performance
++ Added InvTweaks by Kobata
+
+CraftMine v4 Alpha 2 - Build 0005 changelog (30/08/2015)
+===========================================
++ Added SimpleCore and SimpleOres2 by AleXndrTheGr8st
++ Added SimpleOres2 official Fusion and Netherrocks plugins
+- Temporarily removed the fusion & netherrocks plugins, simplecore, simpleores2, buildcraft and safe mods until I sort out a major constant lag spike issue
+* Working hard on identifying what's causing the major lag spikes that happen constantly
+! Unable to identify the cause of the major lag spikes. I'm forced to make a new build based on b0004 or even b0003! D:
+
+CraftMine v4 Alpha 2 - Build 0004 changelog (30/08/2015)
+===========================================
++ Added Carpenter's Blocks by Mineshopper
++ Added Bibliocraft by Nuchaz
++ Added InvTweaks by Kobata
++ Added VoxelMap by MamiyaOtaru
+* [Rapido+] Configured VoxelMap for better gameplay mechanics and slightly better performance
++ Added Safe mod by kamilx3 (note to self: seems to cause lag spikes sometimes when near safe blocks)
++ Added YAMPST tracker. This annonymously sends crash reports to me in a secure manner so that I am aware of any major bugs and can fix them without
+you needing to report them to me. You may optionally opt-out of the anonymous statistics and crash report sending at https://en.yampst.net/optout.php
++ Added Buildcraft Core, Energy, Factory, Silicon and Transport
+
+CraftMine v4 Alpha 2 - Build 0003 changelog (26/08/2015-29/08/2015)
+===========================================
++ Added Aquaculture by RebelKeithy
+* Marked the shaders mod as tested
++ Added Ninja's Cash by Paint_Ninja (me!)
++ Added MrCrayfish's Furniture mod by MrCrayfish
++ Added IronChest 2 by cpw
++ Added CustomMainMenu mod by Lumien
+* Designing the menu system gradually.............
++ Added ResourceLoader by Lumien
+- Removed CustomMainMenu and ResourceLoader until I get a decent menu design sorted out
++ Added Vending block mod by kamilx3
++ Added OpenModsLib and OpenBlocks
++ Added iChunUtil and Hats mod by iChun
+* [Rapido+] Configured iChunUtil and Hats mod for better performance and improved hat variety (especially when nearby lots of mobs and/or players)
++ Added ExtraUtils by RWTema
+* Configured OpenMods for better gameplay mechanics
+* Configured CrayFurniture to not show the welcome message on join (can get annoying on some servers and after first time join)
++ Added Jabba by ProfMobius
+
+CraftMine v4 Alpha 2 - Build 0002 changelog (23/08/2015-26/08/2015)
+===========================================
++ [Rapido+] Added ShadersModCore
+* Tried out a lot (and I mean A LOT) of shaders and couldn't seem to find any suitable enough for what I wanted. Working on my own...
++ [Rapido+] Added my own shaderpack called "Ninja's Light Shaders v2 Alpha 4" (based on "Chocapic13 Beta v5.12 Lite fixed")
+
+CraftMine v4 Alpha 2 - Build 0001 changelog (22/08/2015-23/08/2015)
+===========================================
+# CraftMine v4 is a complete re-write of CM v3.**, built from the ground up on Minecraft 1.7.10
++ Added Minecraft Forge 10.13.4.1448-1.7.10
+# [Rapido+] Rapido is now called "Rapido+" and now also improves your audio experience. Further efforts to improve audio and visuals will be made in Rapido+, rather
+than just focusing on improving performance like normal Rapido used to.
++* [Rapido+] Adjusted default sound levels in the game to make the game more atmospheric
++* [Rapido+] Adjusted the default video settings for significantly better performance without any major loss in visual quality
++* [Rapido+] Added Optifine Ultra C1 and applied magical configurations to it for significantly better visual quality and performance
++ [Rapido+] Added FastCraft for improved performance
++* [Rapido+] Added BetterFPS and configured it for optimal performance
++* [Rapido+] Added Better Foliage and configured it for improved performance and appearance
++ Added LiteLoader b04 for 1.7.10
++* [Rapido+] Added MAtmos and configured it for the best audio
++ [Rapido+] Added an experimental Project Andorra soundpack for MAtmos so that MAtmos actually works and to make our new sound engine shine! :)
++ [Rapido+] Added an experimental Project Andorra resource/texturepack for enhanced texture appearance (64x resolution)
+
+CraftMine v4 Alpha 1 (ABANDONED) - Build 0001 changelog (25/02/2015)
+=======================================================
++* Updated to Minecraft 1.7.10
++*- Updated all mods to their latest stable for Minecraft 1.7.10
+
++ New hats! You can now access iChun's contributor hats in CraftMine, as well as new hats found in his
+latest update
++ Player's heads now get chopped off and dropped on the floor when killed
++ Brand new CraftMine-exclusive world generator defaults. Just like in v2.** and v3.**, there were special world generation configs setup by default. This made worlds beautiful, lag-less and more useful. CraftMine v4 expands on this even more to make the best possible world by default.
++ Added BetterRain and BetterFoliage mods
++ Added iChunUtil and Mantle mods
++ Added SpecialMobs and FastCraft mods
++ Added CrayTokens Lite and Ninja's Cash v2 (CraftMine edition - with exclusive features!)
++ Added LiteLoader and LinkInfo
++ Added Protocol4 and BrewingAPI
++ Added Chisel2
++ Added ChiselFacades and MrTJPCore
++ Added BugfixMod and WearMC
++ Added Waila and Alarmcraft
++ Added StartingInventory and IguanasTinkerTweaks
++ Added AsieLib and HatStand
+TODO: + Added Rapido+ (CraftMine exclusive!)
+
+* Replaced BetterGrassAndLeaves mod with BetterFoliage
+
+* [Rapido+] Enabled chunk cache in Forge 1.7.10 with max chunks stored in RAM being 16
+
+- Removed hats message on first join
+- Removed update notifications for iChun's mods, but it'll still notify the console if an update has been found and I'll update it as soon as a new version is avaliable.
+- Removed update notifications for Trapcraft, but I'll still update it as soon as a new version is avaliable.
+- Removed welcome message for MrCrayFish's Furniture mod
+- Removed welcome books for OpenBlocks and Tinker's Construct on first join
+- Disabled Cursed Earth from ExtraUtilities. It is too overpowered as it easily allows for super mob grinders
+- Finally removed all the useless and annoying update notifications from ProjectRed about a new version of the mod for a different Minecraft version
+- Removed Chisel in favour of Chisel2
+- Removed ProjectRed mechanical and compat
