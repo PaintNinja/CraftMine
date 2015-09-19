@@ -3,7 +3,8 @@ The changelog items are sorted in descending order, meaning the newer the change
 
 CraftMine v4 Alpha 2 - Build 0015 changelog (19/09/2015)
 ===========================================
-* Updated Bibliocraft from v1.10.6 to v1.11.1
+TODO: * Updated Bibliocraft from v1.10.6 to v1.11.1
+* Reverted changes to ExtraUtilities from b0014, fixes bug #1
 
 CraftMine v4 Alpha 2 - Build 0014 changelog (19/08/2015)
 ===========================================
