@@ -5,6 +5,8 @@ CraftMine v4 Alpha 2 - Build 0016 changelog (22/09/2015)
 ===========================================
 * Updated Bibliocraft from v1.10.6 to v1.11.2
 * Re-enabled Bibliocraft renderers in the config, fixes bug #4
++ Added CustomMainMenu mod by Lumien (again)
++ EVENTUALLY made a custom menu system for CraftMine v4. Still needs work but looks good for now... :)
 
 CraftMine v4 Alpha 2 - Build 0015 changelog (19/09/2015-22/09/2015)
 ===========================================
