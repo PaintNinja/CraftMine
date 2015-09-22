@@ -1,9 +1,13 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Alpha 2 - Build 0015 changelog (19/09/2015)
+CraftMine v4 Alpha 2 - Build 0016 changelog (22/09/2015)
 ===========================================
-TODO: * Updated Bibliocraft from v1.10.6 to v1.11.1
+* Updated Bibliocraft from v1.10.6 to v1.11.2
+* Re-enabled Bibliocraft renderers in the config, fixes bug #4
+
+CraftMine v4 Alpha 2 - Build 0015 changelog (19/09/2015-22/09/2015)
+===========================================
 * Reverted changes to ExtraUtilities from b0014, fixes bug #1
 X Tried adding Biomes O' Plenty but after a lot of testing, found that it was too laggy to add. (constant lag spikes on root. and root.tick when generating and loading the world)
 
