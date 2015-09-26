@@ -7,6 +7,7 @@ CraftMine v4 Alpha 2 - Build 0017 changelog (26/09/2015)
 * Marked b0016 as a "golden build" (this means that build 0016 was almost perfect for what its goals were)
 - [Habitat] Disabled ice plains biome
 * [Habitat] Made Highlands ocean islands slightly more common (1 in 12 chance instead of 1 in 14)
+* Marked CustomMainMenu and Highlands mods as tested and configured
 
 CraftMine v4 Alpha 2 - Build 0016 changelog (22/09/2015)
 ===========================================
