@@ -1,6 +1,13 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 2 - Build 0017 changelog (26/09/2015)
+===========================================
++ Added Highlands mod by fabricator77 v2.2.3, implements #5
+* Marked b0016 as a "golden build" (this means that build 0016 was almost perfect for what its goals were)
+- [Habitat] Disabled ice plains biome
+* [Habitat] Made Highlands ocean islands slightly more common (1 in 12 chance instead of 1 in 14)
+
 CraftMine v4 Alpha 2 - Build 0016 changelog (22/09/2015)
 ===========================================
 * Updated Bibliocraft from v1.10.6 to v1.11.2
