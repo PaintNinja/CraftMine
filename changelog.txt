@@ -4,6 +4,8 @@ The changelog items are sorted in descending order, meaning the newer the change
 CraftMine v4 Alpha 2 - Build 0019 changelog (27/09/2015)
 ===========================================
 + Added New Dungeons originally by Slidedrum, now maintained by GoToLink, addresses #12 (although it needs more testing)
+* Changed the square minimap style for voxelMap to better fit CraftMine's theme
+* Changed default minimap style for voxelMap from circle to square
 
 CraftMine v4 Alpha 2 - Build 0018 changelog (27/09/2015)
 ===========================================
