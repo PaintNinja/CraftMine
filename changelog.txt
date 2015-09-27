@@ -1,6 +1,10 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 2 - Build 0019 changelog (27/09/2015)
+===========================================
++ Added New Dungeons originally by Slidedrum, now maintained by GoToLink, addresses #12 (although it needs more testing)
+
 CraftMine v4 Alpha 2 - Build 0018 changelog (27/09/2015)
 ===========================================
 + Added Roguelike Dungeons by Greymerk
