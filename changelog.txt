@@ -6,6 +6,8 @@ CraftMine v4 Alpha 2 - Build 0019 changelog (27/09/2015)
 + Added New Dungeons originally by Slidedrum, now maintained by GoToLink, addresses #12 (although it needs more testing)
 * Changed the square minimap style for voxelMap to better fit CraftMine's theme
 * Changed default minimap style for voxelMap from circle to square
++ [CM Belle] Made Trapcraft textures
+* Updated the built-in CM Belle resourcepack from v0.5 to v0.6
 
 CraftMine v4 Alpha 2 - Build 0018 changelog (27/09/2015)
 ===========================================
