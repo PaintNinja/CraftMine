@@ -1,6 +1,11 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 2 - Build 0018 changelog (27/09/2015)
+===========================================
++ Added Roguelike Dungeons by Greymerk
+* [Habitat] Made Roguelike Dungeons less overpowered by turning off "generous mode"
+
 CraftMine v4 Alpha 2 - Build 0017 changelog (26/09/2015)
 ===========================================
 + Added Highlands mod by fabricator77 v2.2.3, implements #5
