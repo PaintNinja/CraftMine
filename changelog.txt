@@ -1,6 +1,10 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 3 - Build 0022 changelog (03/10/2015)
+===========================================
++ Added Wallpaper mod by pau101, implements #16 - special thanks to Pikachu298 for considering and testing this mod
+
 CraftMine v4 Alpha 3 - Build 0021 changelog (29/09/2015-03/10/2015)
 ===========================================
 + Added Animals Plus mod by Click_Me, adds #22
