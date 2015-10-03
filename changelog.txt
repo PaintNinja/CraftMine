@@ -5,6 +5,7 @@ CraftMine v4 Alpha 2 - Build 0021 changelog (29/09/2015)
 ===========================================
 + Added Animals Plus mod by Click_Me, adds #22
 * Changed default footstep volume from 70% to 65%
++ Got Primitive Mobs mod by Daveyx0, adds #24
 
 CraftMine v4 Alpha 2 - Build 0020 changelog (28/09/2015)
 ===========================================
