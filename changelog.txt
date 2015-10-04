@@ -1,6 +1,10 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 3 - Build 0024 changelog (04/10/2015)
+===========================================
+* Updated Buildcraft core, energy, factory, silicon and transport from v7.0.23 to 7.1.8
+
 CraftMine v4 Alpha 3 - Build 0023 changelog (04/10/2015)
 ===========================================
 + Added MinecraftIO by dmf444
