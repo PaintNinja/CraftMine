@@ -3,7 +3,10 @@ The changelog items are sorted in descending order, meaning the newer the change
 
 CraftMine v4 Alpha 3 - Build 0024 changelog (04/10/2015)
 ===========================================
-* Updated Buildcraft core, energy, factory, silicon and transport from v7.0.23 to 7.1.8
+* Updated Buildcraft core, energy, factory, silicon and transport from v7.0.23 to v7.1.8
+* Marked Animals Plus as tested and configured, in compliance with the naming convention
++ Added MalisisCore by Ordinastie
++ Added MalisisAdvert by Ordinastie 
 
 CraftMine v4 Alpha 3 - Build 0023 changelog (04/10/2015)
 ===========================================
