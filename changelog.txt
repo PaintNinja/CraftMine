@@ -1,9 +1,14 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Alpha 3 - Build 0025 changelog (08/10/2015)
+CraftMine v4 Alpha 3 - Build 0025 changelog (08/10/2015-11/10/2015)
 ===========================================
 + [CM Belle] Made SimpleOres2 block textures
+* Updated the built-in CM Belle resourcepack from v0.6 to v0.61
++ Added the Ships mod by Cuchaz (needs more testing - can't figure out how to move the boats yet!)
+* Updated BetterRecords mod from v1.1.9 to v1.2.0
++ [CM Belle] Made some EBXL block textures (mostly just the woodplanks, redrock and a couple of logs)
+* Updated the built-in CM Belle resourcepack from v0.61 to v0.62
 
 CraftMine v4 Alpha 3 - Build 0024 changelog (04/10/2015)
 ===========================================
