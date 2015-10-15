@@ -1,6 +1,12 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 3 - Build 0026 changelog (15/10/2015)
+===========================================
++ Added MrTJPCore, ProjectRed Base and Forge Multipart
+* Made ProjectRed wires 2D to improve performance
++ Added ProjectRed Integration and ProjectRed Lighting
+
 CraftMine v4 Alpha 3 - Build 0025 changelog (08/10/2015-11/10/2015)
 ===========================================
 + [CM Belle] Made SimpleOres2 block textures
