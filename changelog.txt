@@ -9,6 +9,7 @@ CraftMine v4 Alpha 3 - Build 0026 changelog (15/10/2015)
 + Added ProjectRed Mechanical and ProjectRed World
 * Marked MrTJPCore and all the ProjectRed stuff as tested & stable, in compliance with the naming convention
 + Made chunk transitions, adds #25 - note: currently incompatible with multicore and smooth chunk loading modes
+* Improved the positioning of the build number on the bottom right of the main menu so it is no longer offsetted
 
 CraftMine v4 Alpha 3 - Build 0025 changelog (08/10/2015-11/10/2015)
 ===========================================
