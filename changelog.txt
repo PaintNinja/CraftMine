@@ -7,6 +7,9 @@ CraftMine v4 Alpha 3 - Build 0028 EA changelog (20/10/2015)
 + [CM Belle] Made Vending mod textures (by Pikachu298)
 + [CM Belle] Replaced Paint_Ninja's average SimpleOres textures with Pikachu298's amazing ones
 * Updated the built-in CM Belle resourcepack from v0.62 to v0.63
+* Rebranded our custom soundpack from internal dev name to "Belle Atmosfera"
++ Added LaunchGUI by TehNut
+* Configured LaunchGUI to give a notice to early access users about known issues and what to expect
 
 CraftMine v4 Alpha 3 - Build 0027 changelog (17/10/2015)
 ===========================================
