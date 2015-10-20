@@ -1,6 +1,13 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 3 - Build 0028 EA changelog (20/10/2015)
+===========================================
++ This is our first CraftMine Early Access build - hence the "EA" mark. Early access means that this build will be accessible by invited early access users, making this the first semi-public CMv4 build! :)
++ [CM Belle] Made Vending mod textures (by Pikachu298)
++ [CM Belle] Replaced Paint_Ninja's average SimpleOres textures with Pikachu298's amazing ones
+* Updated the built-in CM Belle resourcepack from v0.62 to v0.63
+
 CraftMine v4 Alpha 3 - Build 0027 changelog (17/10/2015)
 ===========================================
 * Updated all the Buildcraft mods from v7.1.8 to v7.1.11
