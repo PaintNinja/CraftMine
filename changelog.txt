@@ -1,6 +1,12 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 3 - Build 0029 changelog (23/10/2015)
+===========================================
++ Added SpecialAI by FatherToast (partially implements #26)
+* Configured SpecialAI so that mob greifing doesn't happen but torch snapping still can
+* Configured SpecialAI so that zombies can have special abilities, too!
+
 CraftMine v4 Alpha 3 - Build 0028 EA changelog (20/10/2015)
 ===========================================
 + This is our first CraftMine Early Access build - hence the "EA" mark. Early access means that this build will be accessible by invited early access users, making this the first semi-public CMv4 build! :)
