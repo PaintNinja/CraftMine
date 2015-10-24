@@ -7,6 +7,8 @@ CraftMine v4 Alpha 3 - Build 0030 changelog (24/10/2015)
 + Added NoShelter by TheDespite, finishes implementing #26
 * Configured NoShelter so that invasions happen every 10 nights instead of every 2 and so that mobs cannot grief. (Needs testing)
 * Configured NoShelter so that the number of enemies that spawn at once during an invasion is less than the default so it's not too laggy
++ Added SurvivalTweaks (#28)
+* Configured SurvivalTweaks so the nether no longer punishs you too harshly just for breaking any block there
 
 CraftMine v4 Alpha 3 - Build 0029 changelog (23/10/2015-24/10/2015)
 ===========================================
