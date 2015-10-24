@@ -9,6 +9,9 @@ CraftMine v4 Alpha 3 - Build 0029 changelog (23/10/2015-24/10/2015)
 * Decided to turn off mob greifing-related behaviour entirely until better planned out
 * Made mobs harder by making special abilities more common and some other config tweaks in SpecialAI
 X Tried adding DamageIndicators by rich1051414 but failed due to the official downloads being taken down or made private by the author. We'll be looking into other ways of getting the official mod in the meantime.
++ Added Pam's Harvestcraft by Pamela Collins
+* Marked SpecialAI as tested and stable, in compliance with the naming convention
+* Updated YAMPST tracker to show the correct build on the stats
 
 CraftMine v4 Alpha 3 - Build 0028 EA changelog (20/10/2015)
 ===========================================
