@@ -12,6 +12,9 @@ X Tried adding DamageIndicators by rich1051414 but failed due to the official do
 + Added Pam's Harvestcraft by Pamela Collins
 * Marked SpecialAI as tested and stable, in compliance with the naming convention
 * Updated YAMPST tracker to show the correct build on the stats
+X Tried TabbyChat mod by RocketMan10404 but removed it for now due to it not being as simple as I initially hoped. :(
++ Added Chisel: A new hope mod originally by AUTOMATIC_MAIDEN, now maintained by tterrag1098, Drullkus and Minecreatr
+* Enabled Chisel's alternative recipe
 
 CraftMine v4 Alpha 3 - Build 0028 EA changelog (20/10/2015)
 ===========================================
