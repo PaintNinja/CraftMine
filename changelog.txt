@@ -1,6 +1,10 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Alpha 3 - Build 0031 changelog (25/10/2015)
+===========================================
++ Added It's the little things mod by zlepper and configured it for additional "polish" :)
+
 CraftMine v4 Alpha 3 - Build 0030 changelog (24/10/2015)
 ===========================================
 + Added UtilityMobs by FatherToast
