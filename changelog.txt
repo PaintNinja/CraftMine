@@ -1,9 +1,13 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Alpha 3 - Build 0031 changelog (25/10/2015)
+CraftMine v4 Alpha 3 - Build 0031 EA2 changelog (25/10/2015)
 ===========================================
 + Added It's the little things mod by zlepper and configured it for additional "polish" :)
+#+ Brand new branding by "Jakob Hartley - Bate" aka Mr_Effex and Paint_Ninja with a new vision for the pack and concepts based on this design
++ Brand new menu design, based on the new branding concepts!
+* Reduced filesize by about 8-9MB by removing redundant, unused menu backgrounds
+* This is the second early access build, with quite a lot of gameplay additions and improvements over the last EA build!
 
 CraftMine v4 Alpha 3 - Build 0030 changelog (24/10/2015)
 ===========================================
