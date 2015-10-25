@@ -8,6 +8,7 @@ CraftMine v4 Alpha 3 - Build 0031 EA2 changelog (25/10/2015)
 + Brand new menu design, based on the new branding concepts!
 * Reduced filesize by about 8-9MB by removing redundant, unused menu backgrounds
 * This is the second early access build, with quite a lot of gameplay additions and improvements over the last EA build!
+#* Reduced filesize even more by about 33MB by purging the BetterRecords cache from when I tested it with tonnes of long, high-quality music tracks
 
 CraftMine v4 Alpha 3 - Build 0030 changelog (24/10/2015)
 ===========================================
