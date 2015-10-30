@@ -8,7 +8,7 @@ CraftMine v4 Alpha 3 - Build 0032 changelog (29/10/2015-30/10/2015)
 * Marked It's the little things mod as tested and stable, in compliance with our naming convention
 + Added Et Futurum by ganymedes01 (adds #27)
 * Disabled retrogen in MrTJPCore to prevent retrogen from occuring for ProjectRed in already generated chunks with the mod's stuff. It appears that the mod's buggy causing the retrogen to occur every single time the internal server is started, eventually causing everything to just be the mod's stuff.
-
++ Added Safe mod originally by AUTOMATIC_MAIDEN, now maintained by kamilx3, as the lag spikes from this mod in the past have now been fixed!
 
 CraftMine v4 Alpha 3 - Build 0031 EA2 changelog (25/10/2015)
 ===============================================
