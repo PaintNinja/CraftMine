@@ -11,6 +11,8 @@ CraftMine v4 Alpha 3 - Build 0032 changelog (29/10/2015-30/10/2015)
 + Added Safe mod originally by AUTOMATIC_MAIDEN, now maintained by kamilx3, as the lag spikes from this mod in the past have now been fixed!
 + Added Model Citizens by FyberOptic
 * Turned up atmospheric MAtmos volume by 7%
++ Added the official DamageIndicators mod by rich1051414
+* Disabled update notifications for the mod to prevent an error from posting in the chat due to rich1051414's update server being offline
 
 CraftMine v4 Alpha 3 - Build 0031 EA2 changelog (25/10/2015)
 ===============================================
