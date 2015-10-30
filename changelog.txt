@@ -1,13 +1,17 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Alpha 3 - Build 0032 changelog (29/10/2015)
+CraftMine v4 Alpha 3 - Build 0032 changelog (29/10/2015-30/10/2015)
 ===========================================
 +* Revised menu design and new layout, allowing for most of the elements to fit on the main menu at 854x480 width and height (MC's default non-maximised size) and a more streamlined UI
 + New mod list menu with an explanation as to why mods aren't the only thing that makes CM work the way it does
+* Marked It's the little things mod as tested and stable, in compliance with our naming convention
++ Added Et Futurum by ganymedes01 (adds #27)
+* Disabled retrogen in MrTJPCore to prevent retrogen from occuring for ProjectRed in already generated chunks with the mod's stuff. It appears that the mod's buggy causing the retrogen to occur every single time the internal server is started, eventually causing everything to just be the mod's stuff.
+
 
 CraftMine v4 Alpha 3 - Build 0031 EA2 changelog (25/10/2015)
-===========================================
+===============================================
 + Added It's the little things mod by zlepper and configured it for additional "polish" :)
 #+ Brand new branding by "Jakob Hartley - Bate" aka Mr_Effex and Paint_Ninja with a new vision for the pack and concepts based on this design
 + Brand new menu design, based on the new branding concepts!
