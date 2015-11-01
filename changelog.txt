@@ -14,6 +14,8 @@ CraftMine v4 Alpha 3 - Build 0032 changelog (29/10/2015-30/10/2015)
 + Added the official DamageIndicators mod by rich1051414
 * Disabled update notifications for the mod to prevent an error from posting in the chat due to rich1051414's update server being offline
 + Added ColourCodeGUI by Nukeduck (#17)
++ Added our port of BetterSigns for 1.7.10 - called "CraftSigns"
+* Resized DamageIndicator size from the 76% default to 75%
 
 CraftMine v4 Alpha 3 - Build 0031 EA2 changelog (25/10/2015)
 ===============================================
