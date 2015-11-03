@@ -1,6 +1,13 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Beta 1 - Build 0033 changelog (03/11/2015)
+==========================================
++ Added DecoCraft2 by RazzleberryFox again
+* Raised the recommended RAM allocation for CM from 2GB to 3GB, fixes Decocraft2 lag spikes from last addition attempt
++ [Rapido+] Finally made our transition effect on chunks work with Smooth chunk loading mode in Optifine, although not Multi-core just yet! (#25)
++ [Rapido+] Switched default Optifine chunk loading mode from "Default" to "Smooth" for less chunk loading and rendering lag spikes
+
 CraftMine v4 Alpha 3 - Build 0032 changelog (29/10/2015-01/11/2015)
 ===========================================
 +* Revised menu design and new layout, allowing for most of the elements to fit on the main menu at 854x480 width and height (MC's default non-maximised size) and a more streamlined UI
