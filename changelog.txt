@@ -7,6 +7,7 @@ CraftMine v4 Beta 1 - Build 0033 changelog (03/11/2015)
 * Raised the recommended RAM allocation for CM from 2GB to 3GB, fixes Decocraft2 lag spikes from last addition attempt
 + [Rapido+] Finally made our transition effect on chunks work with Smooth chunk loading mode in Optifine, although not Multi-core just yet! (#25)
 + [Rapido+] Switched default Optifine chunk loading mode from "Default" to "Smooth" for less chunk loading and rendering lag spikes
++ Added CrayTokensLite by Paint_Ninja
 
 CraftMine v4 Alpha 3 - Build 0032 changelog (29/10/2015-01/11/2015)
 ===========================================
