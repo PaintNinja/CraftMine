@@ -1,6 +1,15 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Beta 1 - Build 0034 changelog (06/11/2015)
+==========================================
++ Added Tinker's Construct and its required library called "Mantle" by boni
+* Updated the disclaimer text on the menu to reflect that we're now in beta and minor bugs are to be expected
+* Changed disclaimer text from red to yellow
+* Configured Tinker's Construct to make it more balanced
++ Added IguanaTinkerTweaks by boni
+* Configured IguanaTinkerTweaks to rebalance the rebalancing mod (wow... XD) and to rebalance Tinker's Construct some more
+
 CraftMine v4 Beta 1 - Build 0033 changelog (03/11/2015)
 ==========================================
 + Added DecoCraft2 by RazzleberryFox again
