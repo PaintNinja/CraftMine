@@ -1,6 +1,11 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Beta 1 - Build 0035 changelog (07/11/2015)
+==========================================
++ Added Growthcraft Community Edition by Gwafu, IceDragon200, alatyami and Sunconure11
+* Modified Growthcraft Community Edition so that only Core, Cellar, Grapes and Hops modules remain, to minimise confusion with similar Pam's Harvestcraft mod features
+
 CraftMine v4 Beta 1 - Build 0034 changelog (06/11/2015)
 ==========================================
 + Added Tinker's Construct and its required library called "Mantle" by boni
