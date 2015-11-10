@@ -1,10 +1,13 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Beta 1 - Build 0036 changelog (09/11/2015)
+CraftMine v4 Beta 1 - Build 0036 changelog (09/11/2015-10/11/2015)
 ==========================================
 * Marked IguanaTinkerTweaks as tested, configured and stable blah blah blah
 + Added Paintball mod by lKinx
+- [CM Belle] Removed some redundant pdn files within the texture pack to reduce the filesize a bit (the pdn files were for editing, we need them when editing the textures, but not when distributing them textures) 
+* [Rapido+] Losslessly optimised all of the textures currently in CM Belle for a slight filesize deduction and a performance improvement (only minor - but it adds up!)
+* [CM Belle] Updated the built-in resource pack from v0.64 to v0.65, which includes minor performance and filesize improvements
 
 CraftMine v4 Beta 1 - Build 0035 changelog (07/11/2015)
 ==========================================
