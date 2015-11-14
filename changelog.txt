@@ -6,6 +6,7 @@ CraftMine v4 Beta 1 - Build 0037 changelog (11/11/2015)
 + Added Trapcraft by ProPercivalalb
 + Added SecurityCraft by Geforce
 + Added LookingGlass API/library mod by XCompWiz, adds support for security cameras from the SecurityCraft mod
+* Updated the first run notice message to reflect beta information rather than alpha information
 
 CraftMine v4 Beta 1 - Build 0036 changelog (09/11/2015-10/11/2015)
 ==========================================
