@@ -1,6 +1,11 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015)
+==========================================
++ Added Enhanced Visuals from CMv2, ported to MC1.7.10 :)
+X Tried adding MalisisDoors by Ordinastie but failed due to crashes on door rendering
+
 CraftMine v4 Beta 1 - Build 0037 changelog (11/11/2015-14/11/2015)
 ==========================================
 + Added Trapcraft by ProPercivalalb
