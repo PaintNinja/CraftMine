@@ -1,10 +1,13 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015)
+CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015-22/11/2015)
 ==========================================
 + Added Enhanced Visuals from CMv2, ported to MC1.7.10 :)
 X Tried adding MalisisDoors by Ordinastie but failed due to crashes on door rendering
+- Disabled Tinker's Construct's "Passive health regen", which made you heal far too quickly - even when the hunger bar wasn't full!
+* Disabled Liteloader's classpath litemod searching for slightly faster loading times (roughly 2-4 seconds faster)
++ Enabled the enhanced glow effect in the Enhanced Visuals port for better overlay effects (mostly just for better effects when you're near death or have something blow up in your face, etc...)
 
 CraftMine v4 Beta 1 - Build 0037 changelog (11/11/2015-14/11/2015)
 ==========================================
