@@ -1,6 +1,16 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-28/11/2015)
+=====================================================
++ Added (Mine)CraftLoader by CreativeMD
+* Disabled the Forge loading screen to prevent it conflicting with CraftLoader
+## (NOTE TO SELF: CraftLoader seems to cause serious issues with other mods by causing other mods to perform game activity on load, which could be a big problem.
+We should consider removing CraftLoader and using the built-in Forge alternative as soon as possible)
+X Undone all previous changes from this build as it caused serious issues. Starting again with a clean b0039 build (based on b0038) from this changelog line onwards
+* Disabled Forge loading screen in preperation for a new loading screen mod
++ Added BetterLoadingScreen by AlexIIL
+
 CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015-22/11/2015)
 ==========================================
 + Added Enhanced Visuals from CMv2, ported to MC1.7.10 :)
