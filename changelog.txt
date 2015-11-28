@@ -10,6 +10,7 @@ We should consider removing CraftLoader and using the built-in Forge alternative
 X Undone all previous changes from this build as it caused serious issues. Starting again with a clean b0039 build (based on b0038) from this changelog line onwards
 * Disabled Forge loading screen in preperation for a new loading screen mod
 + Added BetterLoadingScreen by AlexIIL
+#+ Made CraftLoader v2 powered by BetterLoadingScreen, allowing for a brand new, streamlined loading screen :)
 
 CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015-22/11/2015)
 ==========================================
