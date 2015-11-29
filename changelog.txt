@@ -11,6 +11,7 @@ X Undone all previous changes from this build as it caused serious issues. Start
 * Disabled Forge loading screen in preperation for a new loading screen mod
 + Added BetterLoadingScreen by AlexIIL
 #+ Made CraftLoader v2 powered by BetterLoadingScreen, allowing for a brand new, streamlined loading screen :)
+* Updated the taskbar and window icon from the old v3 logo icon to our new v4 logo icon
 
 CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015-22/11/2015)
 ==========================================
