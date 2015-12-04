@@ -1,7 +1,7 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-29/11/2015)
+CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-04/12/2015)
 =====================================================
 + Added (Mine)CraftLoader by CreativeMD
 * Disabled the Forge loading screen to prevent it conflicting with CraftLoader
@@ -13,6 +13,7 @@ X Undone all previous changes from this build as it caused serious issues. Start
 #+ Made CraftLoader v2 powered by BetterLoadingScreen, allowing for a brand new, streamlined loading screen :)
 * Updated the taskbar and window icon from the old v3 logo icon to our new v4 logo icon
 * Changed the monster invasion mechanic so that it happens every 10 nights instead of every 2 nights, and spawns 5 mobs per tick rather than 3 during an invasion
+* Updated Buildcraft Core, Energy, Factory, Silicon and Transport from v7.1.11 to v7.1.14
 
 CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015-22/11/2015)
 ==========================================
