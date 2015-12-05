@@ -1,7 +1,7 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-04/12/2015)
+CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-05/12/2015)
 =====================================================
 + Added (Mine)CraftLoader by CreativeMD
 * Disabled the Forge loading screen to prevent it conflicting with CraftLoader
@@ -17,6 +17,11 @@ X Undone all previous changes from this build as it caused serious issues. Start
 * Updated CustomMainMenu (CraftMenu's backend) from v1.8 to v1.9.2
 - Stopped SecurityCraft from showing tips when joining a world, helps reduce the amount of stuff showing in chat when joining a world
 + Made the official CraftMine server show up in the multiplayer server list without overwriting your existing servers.dat
++ Added Iguana Tweaks originally by iguana_man, now maintained by Parker8283
+* Configured Iguana Tweaks to make the game slightly difficult in some aspects rather than potentially fustrating. The configuration options chosen are with PvE and PvP in
+mind, making it very slightly easier for noobs to escape diamond armoured op guys and impossible to fully cheat health by killing yourself and respawning in order to get
+max health again. Nothing like encumberment or anti-sleep is turned on in CMv4 - unlike the defaults of the mod.
++ Blocks such as dirt, grass, sand and gravel now have double the hardness of Vanilla - now giving a better reason for wanting to get a spade and upgrading it overtime.
 
 CraftMine v4 Beta 1 - Build 0038 changelog (21/11/2015-22/11/2015)
 ==========================================
