@@ -1,7 +1,7 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Stable - Build 0040 changelog (12/12/2015)
+CraftMine v4 Stable - Build 0040 changelog (12/12/2015-14/12/2015)
 ==========================================
 * Updated ExtraUtilities from v1.2.11 to v1.2.12, improves compatibility with any additional mods you might manually add to CM yourself
 * Updated Bibliocraft from v1.11.2 to v1.11.4
@@ -9,6 +9,8 @@ CraftMine v4 Stable - Build 0040 changelog (12/12/2015)
 * Marked BetterLoadingScreen (CraftLoader v2's backend) as tested and stable according to our naming convention
 * Updated Chisel: A New Hope from v2.9.3.9 to v2.9.4.10, fixes some bugs including chiseled flammable materials not being flammable and being unable to chisel endstone
 * Updated the Enhanced Visuals port from v0.2.1 to v0.2.2, fixes a crashing bug and excessive blood splats
+- Removed WorldEditWrapper mod to prevent easy cheating in singleplayer (the mod seemed to be unaware of the player's current gamemode, allowing for worldedit to be used in survival for infinite resources using just a wooden axe)
+* Disabled "Nether Block Effect" in SurvivalTweaks, fixes #33
 
 CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-05/12/2015)
 =====================================================
