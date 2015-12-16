@@ -1,7 +1,7 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Stable - Build 0040 changelog (12/12/2015-14/12/2015)
+CraftMine v4 Stable - Build 0040 changelog (12/12/2015-16/12/2015)
 ==========================================
 * Updated ExtraUtilities from v1.2.11 to v1.2.12, improves compatibility with any additional mods you might manually add to CM yourself
 * Updated Bibliocraft from v1.11.2 to v1.11.4
@@ -11,6 +11,10 @@ CraftMine v4 Stable - Build 0040 changelog (12/12/2015-14/12/2015)
 * Updated the Enhanced Visuals port from v0.2.1 to v0.2.2, fixes a crashing bug and excessive blood splats
 - Removed WorldEditWrapper mod to prevent easy cheating in singleplayer (the mod seemed to be unaware of the player's current gamemode, allowing for worldedit to be used in survival for infinite resources using just a wooden axe)
 * Disabled "Nether Block Effect" in SurvivalTweaks, fixes #33
+- Removed WorldEditCUI mod as it was unfortunately very glitchy with shaders :(
+X Tried to remove the blurring special effect due to a bug that causes the blur to not fully go away after the effect is finished but failed
+- Disabled the EnhancedVisuals mod until the annoying blur bug is fixed :(
+X Tried updating Et Futurum from v1.4.4 to v1.5.2, includes many new features, changes and bugfixes but failed due to it requiring a dev build of Forge
 
 CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-05/12/2015)
 =====================================================
