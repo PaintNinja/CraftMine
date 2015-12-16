@@ -15,6 +15,10 @@ CraftMine v4 Stable - Build 0040 changelog (12/12/2015-16/12/2015)
 X Tried to remove the blurring special effect due to a bug that causes the blur to not fully go away after the effect is finished but failed
 - Disabled the EnhancedVisuals mod until the annoying blur bug is fixed :(
 X Tried updating Et Futurum from v1.4.4 to v1.5.2, includes many new features, changes and bugfixes but failed due to it requiring a dev build of Forge
++ Added AppleCore by squeek502
++ Added HungerOverhaul by squeek502, partially addresses #32
+- Removed some redundant files resulting in a slightly reduced the file size of the dev instance
+* Configured HungerOverhaul to make the game more balanced without being fustratingly hard or different
 
 CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-05/12/2015)
 =====================================================
