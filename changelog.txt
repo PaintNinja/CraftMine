@@ -21,6 +21,7 @@ X Tried updating Et Futurum from v1.4.4 to v1.5.2, includes many new features, c
 * Configured HungerOverhaul to make the game more balanced without being fustratingly hard or different
 + Added Profiles mod by Lunatrius
 * Configured the Profiles mod with three profiles with different settings for each edition of CraftMine (the fast profile on the Light edition of CM is faster than the fast profile on the Standard edition, for example)
+#* Split the bundled files in Solder to allow for faster updates and less bandwidth utilisation
 
 CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-05/12/2015)
 =====================================================
