@@ -1,7 +1,7 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Stable - Build 0040 changelog (12/12/2015-16/12/2015)
+CraftMine v4 Stable - Build 0040 changelog (12/12/2015-17/12/2015)
 ==========================================
 * Updated ExtraUtilities from v1.2.11 to v1.2.12, improves compatibility with any additional mods you might manually add to CM yourself
 * Updated Bibliocraft from v1.11.2 to v1.11.4
@@ -19,6 +19,8 @@ X Tried updating Et Futurum from v1.4.4 to v1.5.2, includes many new features, c
 + Added HungerOverhaul by squeek502, partially addresses #32
 - Removed some redundant files resulting in a slightly reduced the file size of the dev instance
 * Configured HungerOverhaul to make the game more balanced without being fustratingly hard or different
++ Added Profiles mod by Lunatrius
+* Configured the Profiles mod with three profiles with different settings for each edition of CraftMine (the fast profile on the Light edition of CM is faster than the fast profile on the Standard edition, for example)
 
 CraftMine v4 Release Candidate - Build 0039 changelog (25/11/2015-05/12/2015)
 =====================================================
