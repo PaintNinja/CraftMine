@@ -1,6 +1,20 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Stable - Build 0041 changelog (25/12/2015)
+==========================================
+* This build aims to rebalance the game to make the gameplay fairer, following complaints with certain aspects of the game being too difficult.
+* You no longer need to level up your vanilla pickaxes to be able to use them to their full potential (before, you needed to level up a stone pickaxe at least once before it could break iron ore)
+* However, it now takes 10% more XP to level up your pickaxes
+* Slowed down hunger point depletion by 33.333%
+* Non-Pam's HC stuff now fills you up more than before
+- Disabled health regen speed difficulty scaling (your health regens the same speed in easy difficulty as in hard now)
+* Increased hostile mob's reach for torches by half a block
+* Reduced chance of special mobs by 5%
+* Fixed a bug causing health regen to not work at all on CraftServ servers
++ Enabled LaunchGUI with a message for new players, also includes a brief "what's new in b041" message.
+* This build of CM should theoretically be compatible with CMv4 b040 worlds and servers, but we still recommend you backup anything important just in case!
+
 CraftMine v4 Stable - Build 0040 changelog (12/12/2015-17/12/2015)
 ==========================================
 * Updated ExtraUtilities from v1.2.11 to v1.2.12, improves compatibility with any additional mods you might manually add to CM yourself
