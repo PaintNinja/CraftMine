@@ -1,6 +1,12 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4 Stable - Build 0042 changelog (08/01/2016)
+==========================================
+# First build of 2016!
+* This build is focused on improving communication features
++ Added Emotes by Vazkii
+
 CraftMine v4 Stable - Build 0041 changelog (25/12/2015)
 ==========================================
 * This build aims to rebalance the game to make the gameplay fairer, following complaints with certain aspects of the game being too difficult.
