@@ -4,7 +4,6 @@ The changelog items are sorted in descending order, meaning the newer the change
 CraftMine v4 Stable - Build 0042 changelog (08/01/2016)
 ==========================================
 # First build of 2016!
-* This build is focused on improving communication features
 + Added Emotes by Vazkii
 * Fixed a bug causing the anvil GUI to not open (see #38)
 X Tried adding FTB Utilities but failed (see #37 for details)
