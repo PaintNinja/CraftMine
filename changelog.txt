@@ -1,12 +1,14 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4 Stable - Build 0042 changelog (08/01/2016)
+CraftMine v4 Stable - Build 0042 changelog (08/01/2016-17/02/2016)
 ==========================================
 # First build of 2016!
 + Added Emotes by Vazkii
 * Fixed a bug causing the anvil GUI to not open (see #38)
 X Tried adding FTB Utilities but failed (see #37 for details)
++ [CM Belle] Made 64x textures for ExtraBiomesXL's redrock bricks and redrock cobble
+* Updated the built-in CM Belle resourcepack from v0.65 to v0.66
 
 CraftMine v4 Stable - Build 0041 changelog (25/12/2015)
 ==========================================
