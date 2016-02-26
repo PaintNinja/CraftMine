@@ -6,6 +6,7 @@ CraftMine v4.1 Beta 1 - Build 0043 changelog (26/02/2016)
 # Upgraded CraftForge to be based on the new Forge 1.7.10 recommended build (10.13.4.1558) (see #39)
 * Fixed a rendering bug on CraftAdvert where advert borders would be invisible on Standard and Ultra editions until chunk update
 * Updated Et Futurum from v1.4.4 to v1.5.5
+* [Rapido+] Updated Optifine from C1 to D1, fixes various bugs and further improves performance slightly, notably allowing some types of lossy png optimisations, using HTTP pipelining for faster remote resourcepack loading and ~10% additional performance improvement on the "Fast Render" option (enabled on CM Light only, as incompatible with our Chunk Transitions mod sadly)
 
 CraftMine v4 Stable - Build 0042 changelog (08/01/2016-17/02/2016)
 ==========================================
