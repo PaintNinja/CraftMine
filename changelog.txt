@@ -8,6 +8,7 @@ CraftMine v4.1 Beta 1 - Build 0043 changelog (26/02/2016)
 * Updated Et Futurum from v1.4.4 to v1.5.5
 * [Rapido+] Updated Optifine from C1 to D1, fixes various bugs and further improves performance slightly, notably allowing some types of lossy png optimisations, using HTTP pipelining for faster remote resourcepack loading and ~10% additional performance improvement on the "Fast Render" option (enabled on CM Light only, as incompatible with our Chunk Transitions mod sadly)
 * Updated SurvivalTweaks from v1.2.0 to v1.2.1, fixes some bugs and a rare crash issue. Also, tool block placing now works whilst sneaking
+* Modified SurvivalTweaks to fix a bug stating a different version to what's actually being used (CM Exclusive)
 
 CraftMine v4 Stable - Build 0042 changelog (08/01/2016-17/02/2016)
 ==========================================
