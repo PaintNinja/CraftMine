@@ -15,6 +15,9 @@ X Tried updating BetterFoliage from v1.0.15 to v2.0.4 and removed redundant file
 * Updated the EnhancedVisuals port from v0.2.2 to v0.2.3, fixes a rare crash bug
 * Marked the ships mod as stable and tested according to the naming convention
 * Updated Rougelike Dungeons from v1.3.6.3 to v1.4.4, adds lots of new features and improvements! :D
++ Added I'm Recording mod and required dependency SpACore by heldplayer. You can help cut editing time by pressing R to toggle notifing others that you're recording and press P to tell others that you have paused or resumed recording. Holding down P will request others to pause recording. A non-intrusive overlay on the top left is also shown so that you don't have to spend time adding in overlays on player camera changes either! (adds #18)
+* Configured I'm Recording mod to help prevent confusion about overlay toggling causing unexpected effects 
+* Configured SpACore for improved performance and reduced bandwidth usage, among some other minor config changes
 
 CraftMine v4 Stable - Build 0042 changelog (08/01/2016-17/02/2016)
 ==========================================
