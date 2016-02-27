@@ -13,6 +13,8 @@ CraftMine v4.1 Beta 1 - Build 0043 changelog (26/02/2016-27/02/2016)
 X Tried updating BetterFoliage from v1.0.15 to v2.0.4 and removed redundant files from the older versions, this update of the mod is a complete rewrite. But failed due to crashes on the world test.
 - Removed some redundant files
 * Updated the EnhancedVisuals port from v0.2.2 to v0.2.3, fixes a rare crash bug
+* Marked the ships mod as stable and tested according to the naming convention
+* Updated Rougelike Dungeons from v1.3.6.3 to v1.4.4, adds lots of new features and improvements! :D
 
 CraftMine v4 Stable - Build 0042 changelog (08/01/2016-17/02/2016)
 ==========================================
