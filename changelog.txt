@@ -1,7 +1,7 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4.1 Beta 1 - Build 0043 changelog (26/02/2016)
+CraftMine v4.1 Beta 1 - Build 0043 changelog (26/02/2016-27/02/2016)
 ============================================
 # Upgraded CraftForge to be based on the new Forge 1.7.10 recommended build (10.13.4.1558) (see #39)
 * Fixed a rendering bug on CraftAdvert where advert borders would be invisible on Standard and Ultra editions until chunk update
@@ -9,6 +9,10 @@ CraftMine v4.1 Beta 1 - Build 0043 changelog (26/02/2016)
 * [Rapido+] Updated Optifine from C1 to D1, fixes various bugs and further improves performance slightly, notably allowing some types of lossy png optimisations, using HTTP pipelining for faster remote resourcepack loading and ~10% additional performance improvement on the "Fast Render" option (enabled on CM Light only, as incompatible with our Chunk Transitions mod sadly)
 * Updated SurvivalTweaks from v1.2.0 to v1.2.1, fixes some bugs and a rare crash issue. Also, tool block placing now works whilst sneaking
 * Modified SurvivalTweaks to fix a bug stating a different version to what's actually being used (CM Exclusive)
+* Updated ExtraBiomesXL from v3.16.2 to v3.16.4, includes minor bugfixes and localisation improvements. Also, it appears to somewhat fix the lagspike issues the mod used to cause at the cost of lower average fps (needs confirmation though as I may just be experiencing the placebo effect)
+X Tried updating BetterFoliage from v1.0.15 to v2.0.4 and removed redundant files from the older versions, this update of the mod is a complete rewrite. But failed due to crashes on the world test.
+- Removed some redundant files
+* Updated the EnhancedVisuals port from v0.2.2 to v0.2.3, fixes a rare crash bug
 
 CraftMine v4 Stable - Build 0042 changelog (08/01/2016-17/02/2016)
 ==========================================
