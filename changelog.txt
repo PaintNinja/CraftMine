@@ -1,6 +1,14 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4.1 Beta 1 - Build 0044 changelog (05/03/2016)
+============================================
++ [CM Belle] Made a lot of 64x textures for mostly Vanilla 1.7.10 and Et Futuruum's backported stuff to improve pack visuals and consistency
+* [CM Belle] Applied some minor Rapido+ optimisations on the new textures for a very slight filesize reduction and performance improvement
+* [CM Belle] Updated the built-in resource pack from v0.66 to v0.67, which includes minor performance and filesize improvements, as well as new Vanilla and Et Futuruum textures
++ [CM Belle] Made some 64x textures for Underground Biomes
+* [CM Belle] Updated the built-in resource pack from v0.67 to v0.68, which includes new HD Underground Biomes textures
+
 CraftMine v4.1 Beta 1 - Build 0043 changelog (26/02/2016-27/02/2016)
 ============================================
 # Upgraded CraftForge to be based on the new Forge 1.7.10 recommended build (10.13.4.1558) (see #39)
