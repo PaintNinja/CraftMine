@@ -9,6 +9,7 @@ CraftMine v4.1 Beta 1 - Build 0045 changelog (17/03/2016-18/03/2016)
 +* Configured ChatFlow with many special defaults exclusively for CraftMine and common tasks and occurences on CraftMine servers, to help improve UX and reduce chat spam on the client-side. :)
 + Added a very basic autocorrect to the chat via ChatFlow to help reduce some of the most common spelling and grammar mistakes
 + Add captions/tooltips to some buttons on the menu system
+* Updated the official CraftMine server's IP built-into the multiplayer menu with the new IP
 
 CraftMine v4.1 Beta 1 - Build 0044 changelog (05/03/2016-12/03/2016)
 ============================================
