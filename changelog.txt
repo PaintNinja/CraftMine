@@ -1,13 +1,14 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
-CraftMine v4.1 Beta 1 - Build 0045 changelog (17/03/2016)
+CraftMine v4.1 Beta 1 - Build 0045 changelog (17/03/2016-18/03/2016)
 ============================================
 * Updated the menu text to state the version as CMv4.1 rather than v4
 * Updated Buildcraft from v7.1.14 to v7.1.15, fixes some bugs and adds a new Advanced Crafting Table and netherwart support for harvesting
 + Added ChatFlow by Vazkii
 +* Configured ChatFlow with many special defaults exclusively for CraftMine and common tasks and occurences on CraftMine servers, to help improve UX and reduce chat spam on the client-side. :)
 + Added a very basic autocorrect to the chat via ChatFlow to help reduce some of the most common spelling and grammar mistakes
++ Add captions/tooltips to some buttons on the menu system
 
 CraftMine v4.1 Beta 1 - Build 0044 changelog (05/03/2016-12/03/2016)
 ============================================
