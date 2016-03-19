@@ -4,6 +4,8 @@ The changelog items are sorted in descending order, meaning the newer the change
 CraftMine v4.1 Beta 2 - Build 0046 changelog (19/03/2016)
 ============================================
 X Tried adding FTBLib and FTB Utilities but failed again due to crashing conflicts. See #37 for details.
+* Updated MalisisCore from BETA v0.12.9 to v0.14.3, includes bugfixes and other improvements
+* Updated MalisisAdvert from BETA v0.4.2 to v0.5.0, fixes some bugs, adds a couple of new features such as a scroll bar and implements #42
 
 CraftMine v4.1 Beta 1 - Build 0045 changelog (17/03/2016-18/03/2016)
 ============================================
