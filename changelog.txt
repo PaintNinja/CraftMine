@@ -1,6 +1,10 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4.1 Beta 2 - Build 0047 changelog (26/03/2016)
+============================================
+* Fixed MalisisCore and MalisisAdvert conflicts due to duplicate mods - oops!
+
 CraftMine v4.1 Beta 2 - Build 0046 changelog (19/03/2016)
 ============================================
 X Tried adding FTBLib and FTB Utilities but failed again due to crashing conflicts. See #37 for details.
