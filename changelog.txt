@@ -4,6 +4,7 @@ The changelog items are sorted in descending order, meaning the newer the change
 CraftMine v4.1 Beta 2 - Build 0047 changelog (26/03/2016)
 ============================================
 * Fixed MalisisCore and MalisisAdvert conflicts due to duplicate mods - oops!
+* Updated Buildcraft from v7.1.15 to v7.1.16, includes minor bugfixes
 
 CraftMine v4.1 Beta 2 - Build 0046 changelog (19/03/2016)
 ============================================
