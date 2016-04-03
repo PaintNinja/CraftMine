@@ -4,6 +4,7 @@ The changelog items are sorted in descending order, meaning the newer the change
 CraftMine v4.1 Stable - Build 0049 changelog (03/04/2016)
 ============================================
 - Removed ChatFlow as unfortunately it seems to cause crashes, especially with mods such as the Essentials plugin on servers or the FTBLib mod on clients :(
+- Removed some redundant files for slightly faster update downloading
 
 CraftMine v4.1 Stable - Build 0048 changelog (31/03/2016)
 ============================================
