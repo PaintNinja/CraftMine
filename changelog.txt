@@ -1,6 +1,14 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4.1 Stable - Build 0049 changelog (03/04/2016)
+============================================
+- Removed ChatFlow as unfortunately it seems to cause crashes, especially with mods such as the Essentials plugin on servers or the FTBLib mod on clients :(
+
+CraftMine v4.1 Stable - Build 0048 changelog (31/03/2016)
+============================================
+* Updated Carpenter's Blocks, fixes some bugs and contains minor lighting performance improvements
+
 CraftMine v4.1 Beta 2 - Build 0047 changelog (26/03/2016)
 ============================================
 * Fixed MalisisCore and MalisisAdvert conflicts due to duplicate mods - oops!
