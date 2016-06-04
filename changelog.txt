@@ -4,6 +4,7 @@ The changelog items are sorted in descending order, meaning the newer the change
 CraftMine v4.2 Beta 1 - Build 0050 changelog (04/06/2016)
 ============================================
 +* Updated Decocraft from v2.2.1 to v2.3.2, fixes some bugs and adds LOTS of new props! Implements #43.
+* Updated JABBA from v1.2.1a to v1.2.2, improves general stability and fixes some bugs. Implements #44.
 
 CraftMine v4.1 Stable - Build 0049 changelog (03/04/2016)
 ============================================
