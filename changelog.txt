@@ -1,6 +1,19 @@
 The changelog titles are sorted in ascending order, meaning newer versions being closer to the start/top of the file.
 The changelog items are sorted in descending order, meaning the newer the change within the version, the lower down in the list.
 
+CraftMine v4.2 Beta 1 - Build 0051 changelog (01/07/2016)
+============================================
+* Updated Buildcraft from v7.1.16 to v7.1.17, includes minor bugfixes
+- Removed YAMPST as they are unfortunately shutting down ;(
+* Updated SurvivalTweaks from v1.2.1 to v1.2.4, includes minor bugfixes and adds a couple of new features
++* Configured SurvivalTweaks to enable a new easter egg feature! :D
++* [Rapido+] Applied some new optimisation techniques to the source code of some of the above updated mods as well as further optimised existing mods for visibly better performance (upto 30fps more than the previous build!)
+* Updated BiblioCraft from v1.11.4 to v1.11.5, includes minor bugfixes
++* Updated Aquaculture from v1.2.5.15 to v1.2.6.21, includes minor fixes and rebalancing as well as a new armour texture
++* Updated OpenBlocks from v1.4.4 to v1.5.1 and OpenModsLib from v0.8 to v0.9.1, includes many bugfixes and some new features
+-* Disabled explosive enchant level 3 from griefing blocks by default
++* Increased the search range for grave spawning (this lowers the chances of a grave failing to spawn)
+
 CraftMine v4.2 Beta 1 - Build 0050 changelog (04/06/2016)
 ============================================
 +* Updated Decocraft from v2.2.1 to v2.3.2, fixes some bugs and adds LOTS of new props! Implements #43.
